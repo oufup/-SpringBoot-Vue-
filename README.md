@@ -18,7 +18,6 @@
 - &zwnj;**Vue 3**&zwnj;：前端框架
 - &zwnj;**Element-Plus**&zwnj;：UI组件库
 - &zwnj;**Axios**&zwnj;：数据交互
-- &zwnj;**ECharts**&zwnj;：数据可视化
 
 ## 功能模块
 
