@@ -34,8 +34,3 @@
    - 安装MySQL数据库
    - 安装Redis
    - 安装Node.js和npm
-
-2. &zwnj;**项目构建**&zwnj;
-   - 克隆项目到本地
-   ```bash
-   git clone https://github.com/your-repo/competition-management-system.git
